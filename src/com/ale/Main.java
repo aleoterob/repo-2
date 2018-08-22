@@ -3,8 +3,8 @@ package com.ale;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hola a todos");
-		System.out.println("Chau a todos");
+		System.out.println("Hola a os");
+		System.out.println("Cha aos");
 
 	}
 
